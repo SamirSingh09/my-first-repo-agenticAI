@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+autogen-agentchat
+pydantic
+python-dotenv
